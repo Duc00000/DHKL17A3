@@ -1,0 +1,5 @@
+a=int(input("Nhập vào a:"))
+b=int(input("Nhập vào b:"))
+c=int(input("Nhập vào c:"))
+print("max =",max(a,b,c))
+print("min =",min(a,b,c))
